@@ -1,0 +1,30 @@
+.main{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    height: 773px;
+}
+.mainhead1{
+    color: #c4baa6;
+    font-style: italic;
+    margin-left: 251px;
+    padding-top: 173px;
+    font-size: 57px;
+    width: 387px;
+    margin-left: 16px;
+}
+
+.mainhead2{
+    width: 367px;
+    font-size: 25px;
+    font-family: YAEnl838gX0-0;
+    padding-top: 30px;
+    color: #9f9890e6; ;
+}
+img{
+    height: 773px;
+   
+}
+.main1{
+    margin-left: 250px ;
+}

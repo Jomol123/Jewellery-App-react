@@ -1,0 +1,40 @@
+.card1{
+    padding-top: 100px ;
+    background-color: #c4baa6;
+    height: 1000px;
+}
+.image{
+    height: 400px
+}
+.cardpara1
+{
+    font-size: 25px;
+    color: #1b201e;
+    font-family: YAEszk0JTZ8-0;
+    line-height: 1.24999479em;
+}
+.cardpara2
+{
+    font-size: 25px;
+    color: #1b201e;
+    font-family: YAEszk0JTZ8-0;
+    line-height: 1.24999479em;
+}
+.cardpara3
+{
+    color: #1b201e;
+    letter-spacing: 0em;
+    font-family: YAEnl838gX0-0;
+    line-height: 1.49999732em;
+    direction: ltr;
+    text-align: left;
+    font-size: 30px;
+}
+.cardhead{
+    font-size: 30px;
+    font-style: oblique;
+    font-size: 66px;
+    font-style: oblique;
+    text-align: center;
+    padding-bottom: 100px;
+}

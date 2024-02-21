@@ -1,0 +1,47 @@
+.Head1{
+    color: #c4baa6;
+    text-align: center;
+    font-size: 20px;
+    font-family: YAEnl838gX0-0;
+    text-transform: uppercase;
+    letter-spacing: 0.614em;
+    font-family: YAEnl838gX0-0;
+    line-height: 1em;
+}
+.Head2{
+    color: #c4baa6;
+    letter-spacing: 0em;
+    font-family: YAEsziFosYQ-0;
+    line-height: 0.99579967em;
+    text-align: center;
+    font-size: 159px;
+    padding-left: 54px;
+    padding-top: 100px;
+}
+
+.head{
+   
+    font-style: italic;
+}
+.maindiv{
+    background-image: url(../image/headerphoto.png);
+    background-repeat: no-repeat;
+    margin: 0;
+    background-size: cover;
+    height: 763px;
+    padding-top: 100px;
+}
+
+.Head{
+border-color: #9f9890e6;
+width: 268px;
+height: 39px;
+border: 1px solid #9f9890e6;
+margin-left: 486px;
+margin-left: 567px;
+font-size: 25px;
+text-align: center;
+color: #c4baa6;
+font-weight: 700;
+margin-top: 100px;
+}
